@@ -8,16 +8,16 @@
     "skills": {
       "hardSkills": [
         {
-          "nome": "Android",
-          "logo": "TODO"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/pedrogiovn21/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
         },
         {
-          "nome": "Java",
-          "logo": "TODO"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/pedrogiovn21/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
         },
         {
-          "nome": "Kotlin",
-          "logo": "TODO"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/pedrogiovn21/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
         }
       ],
       "softSkills": [
@@ -27,50 +27,41 @@
         "Trabalho em equipe"
       ]
     },
-    "idiomas": [
-      {
-        "nome": "Português",
-        "nivel": "Nativo"
-      },
-      {
-        "nome": "Inglês",
-        "nivel": "Intermediário"
-      },
-      {
-        "nome": "Espanhol",
-        "nivel": "Intermediário"
-      }
+    "languages": [
+        "Português - BR (Nativo)",
+        "Inglês (Intermediário)",
+        "Espanhol (Intermediário)"
     ],
     "portfolio": [
       {
-        "nome": "ALURA FOKUS",
+        "name": "ALURA FOKUS",
         "gitHub": "https://github.com/pedrogiovn21/New-AluraFokus"
       },
       {
-        "nome": "WORLDWIDE",
+        "name": "WORLDWIDE",
         "gitHub": "https://github.com/pedrogiovn21/Worldwide"
       },
       {
-        "nome": "POKEDEX",
+        "name": "POKEDEX",
         "gitHub": "https://github.com/pedrogiovn21/pokedex-JS"
       },
       {
-        "nome": "ALURA BOOKS",
+        "name": "ALURA BOOKS",
         "gitHub": "https://github.com/pedrogiovn21/AluraBooksJs"
       },
       {
-        "nome": "ALURA PLUS",
+        "name": "ALURA PLUS",
         "gitHub": "https://github.com/pedrogiovn21/Alura-plus"
       }
     ],
-    "experiencias": [
+    "experience": [
       {
-        "nome": "JavaScript Developer ",
-        "descricao": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.",
-        "instituicao": "Digital Innovation One (DIO)",
-        "periodo": {
-          "inicio": "02/2024",
-          "fim": "Atualmente"
+        "name": "JavaScript Developer ",
+        "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.",
+        "institution": "Digital Innovation One (DIO)",
+        "period": {
+          "start": "02/2024",
+          "end": "Atualmente"
         }
       }
     ]
